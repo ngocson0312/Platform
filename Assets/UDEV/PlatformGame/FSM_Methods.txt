@@ -1,0 +1,12 @@
+protected void Starting_Enter() { } 
+protected void Starting_Update() { } 
+protected void Starting_Exit() { } 
+protected void Playing_Enter() { } 
+protected void Playing_Update() { } 
+protected void Playing_Exit() { } 
+protected void Win_Enter() { } 
+protected void Win_Update() { } 
+protected void Win_Exit() { } 
+protected void Gameover_Enter() { } 
+protected void Gameover_Update() { } 
+protected void Gameover_Exit() { } 
